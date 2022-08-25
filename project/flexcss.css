@@ -1,0 +1,18 @@
+
+.bigcontainer{background-color: blanchedalmond; margin:150px;height:520px ; display: flex;flex-direction: column;
+ }  
+ 
+.result{background-color: aquamarine; font-size: 30px; font-family: Arial, Helvetica, sans-serif; text-align:center;
+    margin: 15px; line-height: 50px; }
+
+.keyscontainer{background-color: black; display: flex; flex-direction: column; margin: 15px;} 
+
+.row{background-color: beige; display: flex; flex-direction: row; justify-content: space-around;align-items: center;
+line-height: 50px; margin:15px; }
+
+.key{background-color: gray;font-size:25px; text-align: center; width: 70px; line-height: 50px; margin: 10px;
+     color:black ;}
+
+.key:hover{background-color: whitesmoke;}
+
+.result:hover{background-color: whitesmoke;}
